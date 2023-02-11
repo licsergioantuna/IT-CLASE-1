@@ -1,0 +1,18 @@
+body{
+    background-color: blueviolet;
+    color: black;
+    font-family: sans-serif;
+        }
+
+button{
+    border: 1px solid ;
+    background-color: aqua;
+    padding: 8px 40px;
+    transition: .5s;
+}
+
+button:hover{
+       background-color: rgb(255, 0, 0);
+       color: blue;
+    
+
